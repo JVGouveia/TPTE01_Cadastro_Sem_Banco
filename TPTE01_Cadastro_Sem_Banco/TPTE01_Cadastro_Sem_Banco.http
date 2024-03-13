@@ -1,0 +1,6 @@
+@TPTE01_Cadastro_Sem_Banco_HostAddress = http://localhost:5150
+
+GET {{TPTE01_Cadastro_Sem_Banco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
